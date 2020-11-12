@@ -1,5 +1,5 @@
 This folder contains the following files:
-
+#
 
 'main_L_GRW_Richy_1D.m' is the Matlab code for the L_GRW scheme used to solve flow-problems for
 	two numerical scenarios considered in 'Richy-1D' software to obtain reference solutions.
@@ -18,4 +18,5 @@ This folder contains the following files:
 'dt_scenario1' and 'dt_scenario2' are files which store the variable time step updated by the 
 	iterative procedure used in the 'L_GRW' scheme.
 
-'comparison_IC_GRW_Richy.mm' and 'comparison_solution_GRW_Richy.m' are codes used to compare  the 		initial conditions and the solutions.
+'comparison_IC_GRW_Richy.mm' and 'comparison_solution_GRW_Richy.m' are codes used to compare  the 		
+	initial conditions and the solutions.
