@@ -3,7 +3,7 @@ Data repository accompanying the paper "Random walk methods for flow and transpo
 # #
 The repository contains Matlab codes and benchmark tests for the Global Random Walk (GRW) approach to solve coupled nonlinear problems of flow and transport in porous media.
 
-The GRW solutions for a variety of one- and two-dimensional problems are grouped together in the folders 1D an 2D as follows.
+The GRW solutions for a variety of one- and two-dimensional problems are grouped together in the folders 1D and 2D as follows.
 #
 # 1D/
 # /Richards_1D
