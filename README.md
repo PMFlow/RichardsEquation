@@ -9,6 +9,8 @@ The GRW solutions for a variety of one- and two-dimensional problems are grouped
 - illustrates the construction of the GRW solution, the L-scheme used to linearize the nonlinear Richards equation, and the transition from unsaturated to saturated flow regime, for exponential parameterization of the water content and hydraulic conductivity as a function of pressure head.
 # 1D/Richards_1D_code_verification
 - accuracy and order of convergence assessments using analytical manufactured solutions.
+# 1D/Richards_1D_validation_tests
+- comparison with experimental data and exact analytical solutions.
 # 1D/Richards_1D_FlowTransport
 - benchmark for coupled flow and transport in unsaturated/saturated soils with van Genuchtem-Mualem parameterization and random saturated-conductivity.
 #
