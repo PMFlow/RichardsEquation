@@ -14,7 +14,7 @@ The GRW solutions for a variety of one- and two-dimensional problems are grouped
 ### 1D/Richards_1D_FlowTransport
 - benchmark for coupled flow and transport in unsaturated/saturated soils with van Genuchtem-Mualem parameterization and random saturated-conductivity.
 ##
-## 2D/Richards_2D
+### 2D/Richards_2D
 - flow benchmark for clay- and loam-soil models with van Genuchtem-Mualem parameterization and random saturated-conductivity.
 ### 2D/Richards_2D_FlowTransport
 - benchmark for coupled flow and transport in unsaturated/saturated soils with van Genuchtem-Mualem parameterization and random saturated-conductivity.
