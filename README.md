@@ -1,5 +1,5 @@
 ## Data repository accompanying the paper "Global random walk solvers for fully coupled flow and transport in saturated/unsaturated porous media" by Nicolae Suciu, Davide Illiano, Alexander Prechtel, Florin A. Radu
-This is a data repository accompanying the paper "Global random walk solvers for fully coupled flow and transport in saturated/unsaturated porous media" by Nicolae Suciu, Davide Illiano, Alexander Prechtel, Florin A. Radu
+This is a data repository accompanying the paper "Global random walk solvers for fully coupled flow and transport in saturated/unsaturated porous media" by Nicolae Suciu, Davide Illiano, Alexander Prechtel, Florin A. Radu (https://doi.org/10.1016/j.advwatres.2021.103935)
 
 The repository contains Matlab codes and benchmark tests for the Global Random Walk (GRW) approach to solve coupled nonlinear problems of flow and transport in porous media.
 
