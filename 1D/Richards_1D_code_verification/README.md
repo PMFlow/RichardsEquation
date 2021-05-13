@@ -21,4 +21,4 @@ This folder contains the following Matlab scrips and files:
 
 - 'theta.m' is the function for water content in the degenerate problem.
 
- -'Fsg.m' is the function for the source terms in the degenerate eproblem.
+- 'Fsg.m' is the function for the source terms in the degenerate eproblem.
