@@ -5,6 +5,13 @@ This folder contains the following Matlab scrips and files:
 	transport problem and compares the numerical solution to the analytical reference 
 	solution p(t,x)=-tx(1-x)-1, c(t,x)=tx(1-x)+1.
 
+- 'BGRW_1D_Alt_rand_benchmark.m' is the function solving the transport step of the coupled 
+	problem by the BGRW algorithm.
+
+- 'theta.m' is the function for water content in the degenerate problem.
+
+- 'Fsg.m' is the function for the source terms in the degenerate eproblem.
+
 - 'plot_conv_Alt.m' is a function which plotes the norm of the convergence criterium versus 
 	the number of iterations at different times moments.
 
@@ -15,10 +22,3 @@ This folder contains the following Matlab scrips and files:
 - 'convf.mat' and 'convf.mat' are fiels containing norms of the convergence criterium for the 
 	flow and transport solves.
 
-- 'main_Richy1D_UnsatSatFlowTransp_test.m' is the main program which solves the degenerate fully coupled 
-	unsaturated/saturated-flow and transport problem and compares the numerical solution to the 
-	analytical reference solution p(t,x)=-tx(1-x)+x/4, c(t,x)=tx(1-x)+1.
-
-- 'theta.m' is the function for water content in the degenerate problem.
-
-- 'Fsg.m' is the function for the source terms in the degenerate eproblem.
