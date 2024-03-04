@@ -18,3 +18,4 @@ These results demonstrate the willful falsification of the results presented in 
 
 - 'comparison_GRW_FD.m' compares the BGRW and FD solutions.
 
+- 'Fig.1.eps' and 'Fig.2.eps' present the results of the comparison.
