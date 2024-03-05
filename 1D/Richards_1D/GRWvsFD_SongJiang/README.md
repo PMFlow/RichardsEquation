@@ -12,7 +12,7 @@ This demonstrates the willful falsification of the results presented in [Suciu e
 
 - 'IC_Richy_sat_101.mat' is a file containing the initial condition.
 
-- 'pGRWe3.mat' ... 'pGRWe24.mat' are files containing the pressure head compute with the BGRW code for increasing numbers of particles N=1e-3, ... , N=1e-24.
+- 'pGRWe3.mat' ... 'pGRWe24.mat' are files containing the pressure head computed with the BGRW code for increasing numbers of particles N=1e-3, ... , N=1e-24 and 'pFD' contains the FD solution.
 
 
 - 'comparison_GRW_FD.m' compares the BGRW and FD solutions.
